@@ -30,16 +30,13 @@ $produk3->harga = 30000;
 
 $produk4 = new Produk();
 $produk4->judul = "Uncharted";
-$produk4->penulis = "Neil Druckmann";
+$produk4->penulis = "Neil Druckman";
 $produk4->penerit = "Sony Computer";
 $produk4->harga = 250000;
 
 echo "Komik : ". $produk3->getLabel();
 echo "<br>";
 echo "Game : " . $produk4->getLabel();
-
-
-
 
 ?>
 
