@@ -1,11 +1,17 @@
 <?php
 
-class Coba {
+// Jualan Produk
+// Komik
+// Game
+
+class Produk {
 
 
 }
 
-$a = new Coba();
-$b = new Coba();
-$c = new Coba();
+$produk1 = new Produk();
+$produk1 = new Produk();
+
+
+?>
 
